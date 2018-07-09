@@ -8,9 +8,9 @@ This is a bookshelf app that allows you to select and categorize books you have 
 
 * Clone this repo in your terminal with the command `git clone https://github.com/cristalnaya/reactnd-project-myreads.git`
 * or just download it to your computer
-* change directory into `cd reactnd-project-myreads-master`
+* change directory into `cd reactnd-project-myreads`
 * run `npm install` in your terminal
-* run `npm start` and the app will run locally on port: 3000.
+* run `npm start` and the app will run locally on port: 3000
 
 Note: [Node JS](https://nodejs.org/en/download/) and [NPM (Node Package Manager)](https://www.npmjs.com/get-npm) is required to install and run the application. 
 
@@ -28,6 +28,7 @@ Note: [Node JS](https://nodejs.org/en/download/) and [NPM (Node Package Manager)
     ├── App.js
     ├── App.test.js
     ├── Book.js
+    ├── BookList.js
     ├── BooksAPI.js
     ├── BookSearch.js
     ├── BookShelf.js
@@ -36,8 +37,7 @@ Note: [Node JS](https://nodejs.org/en/download/) and [NPM (Node Package Manager)
     │   ├── arrow-back.svg
     │   └── arrow-drop-down.svg
     ├── index.css
-    ├── index.js
-    └── NoMatch.js
+    └── index.js
 
 ```
 
